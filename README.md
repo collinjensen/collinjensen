@@ -2,7 +2,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Boys & Girls Club
 - 🌱 I’m currently learning ... Machine Learning
