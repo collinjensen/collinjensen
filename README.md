@@ -1,6 +1,6 @@
 ### Hello, there.👋🙂
 ---
-You're looking at a relatively new Data Scientist who attended Lambda School.
+You're looking at a relatively new Data Scientist who attended Lambda School.😎
 
 
 - 🔭 I’m currently working on ... Boys & Girls Club
