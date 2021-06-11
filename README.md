@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... collin.b.jensen@gmail.com
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... The James Webb space telescope will orbit the sun, not the Earth
--->
