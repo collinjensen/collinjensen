@@ -10,3 +10,6 @@ You're looking at a relatively new Data Scientist who attended Lambda School.�
 - 📫 How to reach me: ... collin.b.jensen@gmail.com
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... The James Webb space telescope will orbit the sun, not the Earth
+
+---
+Peace and love, baby. Peace and love.
