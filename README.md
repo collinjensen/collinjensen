@@ -1,9 +1,10 @@
 ### Hello, there.👋🙂
 ---
-You're looking at a relatively new Data Scientist who attended Lambda School.😎
+You're looking at a Data Scientist who attended Lambda School.😎
+collinjensen.com
 
 
-- 🔭 I’m currently working on ... Boys & Girls Club
+- 🔭 I’m currently working on ... Film and space projects
 - 🌱 I’m currently learning ... Machine Learning
 - 👯 I’m looking to collaborate on ... Something YOU find interesting
 - 💬 Ask me about ... Anything
