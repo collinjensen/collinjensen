@@ -1,7 +1,7 @@
 ### Hello, there.👋🙂
 ---
 You're looking at a Data Scientist who attended Lambda School.😎
-collinjensen.com
+[collinjensen.com](collinjensen.com)
 
 
 - 🔭 I’m currently working on ... Film and space projects
