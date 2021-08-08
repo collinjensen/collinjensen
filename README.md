@@ -4,7 +4,7 @@ You're looking at a Data Scientist who attended Lambda School.😎
 [collinjensen.com](http://collinjensen.com)
 
 
-- 🔭 I’m currently working on ... Film and space projects
+- 🔭 I’m currently working on ... programmatically generating tik tok and youtube videos...
 - 🌱 I’m currently learning ... Machine Learning
 - 👯 I’m looking to collaborate on ... Something YOU find interesting
 - 💬 Ask me about ... Anything
