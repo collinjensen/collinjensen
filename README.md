@@ -7,7 +7,7 @@ Data Science 😋
 [collinjensen.com](http://collinjensen.com)
 
 
-- 🔭 I’m currently working on ... programmatically generating tik tok and youtube videos...
+- 🔭 I’m currently working on ... qr codes
 - 🌱 I'm currently learning.
 - 👯 I’m looking to collaborate on ... warzone
 - 💬 Ask me about ... Taylor Swift
