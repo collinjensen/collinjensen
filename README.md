@@ -9,7 +9,7 @@ Data Science 😋
 
 - 🔭 I’m currently working on ... computer vision
 - 🌱 I'm currently learning.
-- 👯 I’m looking to collaborate on ... warzone
+- 👯 I’m looking to collaborate on ... warzone 😉
 - 💬 Ask me about ... Taylor Swift
 - 📫 How to reach me: ... collin@collinjensen.com
 - 😄 Pronouns: ... He/him
