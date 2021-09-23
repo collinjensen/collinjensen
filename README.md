@@ -1,8 +1,6 @@
 # Hello, there 👋
-
-Data Science 😋
-
-(Lambda School)
+### Data Science 😋
+#### (Lambda School)
 
 [collinjensen.com](http://collinjensen.com)
 
