@@ -5,7 +5,7 @@
 [collinjensen.com](http://collinjensen.com)
 
 
-- 🔭 I’m currently working on ... computer vision
+- 🔭 I’m currently working on ... maths
 - 🌱 I'm currently learning.
 - 👯 I’m looking to collaborate on ... warzone 😉
 - 💬 Ask me about ... Taylor Swift
