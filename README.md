@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on ... maths
-- 🌱 I'm currently learning.
+- 🌱 I'm currently learning about error correction?
 - 👯 I’m looking to collaborate on ... warzone 😉
 - 💬 Ask me about ... Taylor Swift
 - 📫 How to reach me: ... collin@collinjensen.com
