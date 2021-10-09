@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on ... maths
 - 🌱 I'm currently learning.
-- 👯 I’m looking to collaborate on ... warzone 😉
+- 👯 I’m looking to collaborate on ... warzone please 😉
 - 💬 Ask me about ... Taylor Swift
 - 📫 How to reach me: ... collin@collinjensen.com
 - 😄 Pronouns: ... He/him
